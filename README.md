@@ -1,6 +1,6 @@
-# init-project Skill
+# opencode-init-project
 
-OpenCode Agent Skill：將 agents 協作文件模板（`docs/agents`、`.gitignore`、README）套用到新專案。
+OpenCode Agent Skill（`init-project`）：將 agents 協作文件模板（`docs/agents`、`.gitignore`、README）套用到新專案。
 
 ## 模板內容
 
