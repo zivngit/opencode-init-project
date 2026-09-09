@@ -1,0 +1,10 @@
+/.vs
+/.vscode
+.venv/
+*.sln
+*.pyproj
+*.pyperf
+**/__pycache__/
+docs/temp
+.env
+.env.*
