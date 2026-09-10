@@ -12,7 +12,7 @@ project/
 │   ├── agents/
 │   │   ├── AGENTS.md       # AI 助理最高行為準則（工作流程、測試與交付標準）
 │   │   ├── TODO.md         # 任務追蹤清單
-│   │   ├── CALL_GRAPH.md   # 系統架構、模組依賴與函式呼叫路徑
+│   │   ├── CALL_GRAPH.md   # 架構圖（圖型由 Agent 評估選擇）
 │   │   └── reports/        # 每次任務的工作完成報告
 │   │       └── REPORT_TEMPLATE.md   # 報告格式範本
 │   └── temp/               # 暫存目錄（草稿、暫時性檔案）

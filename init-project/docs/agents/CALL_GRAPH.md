@@ -1,4 +1,6 @@
-# <專案名稱> 函式呼叫關係圖
+# <專案名稱> 架構圖
+
+> **圖型不固定**：Agent 繪製前須評估內容性質，選擇最能表達該節的 mermaid 圖型（如 `flowchart`、`classDiagram`、`sequenceDiagram`、`stateDiagram-v2`、`erDiagram`），不得一律使用 flowchart。
 
 ## 模組責任
 
@@ -8,12 +10,16 @@
 
 ## 1. 啟動與關閉
 
+> 依本節內容選擇最合適的圖型（範例以 flowchart 示意）：
+
 ```mermaid
 flowchart TD
     A[entry] --> B[module]
 ```
 
 ## 2. 測試關係
+
+> 依本節內容選擇最合適的圖型（範例以 flowchart 示意）：
 
 ```mermaid
 flowchart TD
